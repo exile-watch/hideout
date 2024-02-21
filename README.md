@@ -1,33 +1,28 @@
-# Issues
+# Hideout for exile.watch
 
-Welcome to the centralized issue tracking repository for [Crucible](https://github.com/exile-watch/crucible), [Writ](https://github.com/exile-watch/writ), [Splinters](https://github.com/exile-watch/splinters), and [Nucleus](https://github.com/exile-watch/nucleus). 
+Welcome to the **Hideout**, the central nerve center for all things related to the [exile.watch](https://exile.watch) project and its associated repositories: [Crucible](https://github.com/exile-watch/crucible), [Writ](https://github.com/exile-watch/writ), [Splinters](https://github.com/exile-watch/splinters), and [Nucleus](https://github.com/exile-watch/nucleus). 
 
-This repository is dedicated to consolidating all reports and discussions regarding bugs, feature requests, and general feedback across these projects. 
+The Hideout is designed to be a comprehensive resource where users and contributors can find everything from issue tracking to feature discussions, extensive documentation, and overarching project details.
 
-By centralizing our issue management, we aim to streamline our response and resolution processes, ensuring that your contributions directly impact the quality and usability of our projects.
+## Overview
 
-## Reporting an Issue
+The Hideout streamlines access to critical information and facilitates community engagement across the exile.watch project. By consolidating communication and documentation, we aim to enhance transparency, efficiency, and collaboration.
 
-> [!IMPORTANT]
-> Before reporting an issue, [please ensure that it has not already been reported by searching through the existing issues](https://github.com/exile-watch/issues/issues). If you find that your issue has already been reported, feel free to add any additional information as a comment on that issue.
+### Navigation
 
-If your issue is new, please follow the steps below to report it:
+- [Issue Tracking](https://github.com/exile-watch/hideout/issues): Centralized location for reporting, tracking, and discussing issues across all related projects. This ensures that feedback and bug reports are addressed efficiently.
+- [Feature Requests](https://github.com/exile-watch/hideout/discussions): Share your ideas for new features or improvements. This is a space to discuss potential enhancements and gauge community interest.
+- [Documentation (Wiki)](https://github.com/exile-watch/hideout/wiki): Comprehensive guides, tutorials, and reference materials for users and developers. This is your go-to source for learning about and working with exile.watch and its repositories.
+- [Project Updates and News](https://github.com/exile-watch/hideout/discussions/categories/announcements): Stay informed about the latest developments, releases, and important announcements related to exile.watch.
 
-1. **Select the `New Issue` button**: This can be found in the issues tab of this repository.
-2. **Choose a template**: We provide issue templates to help you structure your report. Please choose the one that best fits your issue type.
-3. **Fill out the template**: Provide as much relevant information as possible to help us understand and replicate the issue. This includes steps to reproduce, expected outcomes, and actual outcomes.
-4. **Submit the issue**: Once completed, submit the issue. Our team will review it and respond accordingly.
 
-## Contribution Guidelines
+### How to Get Involved
 
-We welcome and appreciate your contributions. To maintain the quality and relevance of our issue tracking, please adhere to the following guidelines:
+- [Report an Issue](https://github.com/exile-watch/hideout/issues/new/choose): Encountered a bug or have a suggestion? Open a new issue using our template and provide as much detail as possible.
+- [Propose a Feature](https://github.com/exile-watch/hideout/discussions/new?category=ideas): Have an idea for a new feature? Create a feature request detailing your proposal and its potential impact.
+- [Contribute to the Wiki](https://github.com/exile-watch/hideout/wiki): Our wiki is a collaborative effort. If you have knowledge to share or see an area that could be improved, your contributions are welcome.
 
-- **Be Respectful**: Treat all contributors with respect. Constructive feedback and discussions are the foundation of our community.
-- **Be Clear and Concise**: Clearly describe the issue or suggestion, providing all necessary details and context.
-- **Stay on Topic**: Ensure your contributions are relevant to the specific project and issue at hand.
-- **Protect Privacy**: Do not share personal information, either yours or that of others.
-
-## Links to Projects
+## Links to projects
 
 - [Crucible](https://github.com/exile-watch/crucible) (user facing website, [exile.watch](https://exile.watch))
 - [Writ](https://github.com/exile-watch/writ) (exile.watch design system)
@@ -36,6 +31,6 @@ We welcome and appreciate your contributions. To maintain the quality and releva
 
 ## Contact
 
-If you have any general questions or need assistance, please head over to discussions. For specific issues related to any of the projects, please use this repository's issue tracker.
+If you have any general questions or need assistance, please head over to discussions.
 
-Thank you for helping us improve **Crucible**, **Writ**, **Splinters**, and **Nucleus**. Your contributions make a significant difference in the development and enhancement of these projects.
+Thank you for helping us improve [exile.watch](https://exile.watch). Your contributions make a significant difference in the development and enhancement of these projects.

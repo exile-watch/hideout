@@ -1,6 +1,6 @@
 name: "[Encounters] - Invalid Data"
 description: File an invalid or missing data report
-title: "[Bug]: Invalid/Missing Data"
+title: "Replace this text with this format: {map} - {encounter} - {ability}"
 labels: ["splinters/encounter-data", "invalid/missing data"]
 projects: ["exile-watch/splinters"]
 assignees:
@@ -10,6 +10,14 @@ body:
     attributes:
       value: |
         Thanks for taking the time to report this bug!
+  - type: input
+    id: url
+    attributes:
+      label: exile.watch link
+      description: Share the exile.watch url link where the bug is present
+      placeholder: ex. https://www.exile.watch/encounters/endgame-bosses/sirus-awakener-of-worlds
+    validations:
+      required: false
   - type: checkboxes
     id: terms
     attributes:

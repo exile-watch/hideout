@@ -1,5 +1,7 @@
 # Tech stack
 
+<figure><img src="../.gitbook/assets/exile.watch logo" alt="" width="200"><figcaption><p>exile.watch logo</p></figcaption></figure>
+
 | Dependency                                    | Version | About/role                                                                   |
 | --------------------------------------------- | ------- | ---------------------------------------------------------------------------- |
 | [React](https://react.dev/)                   | 18.x    | Library for web ui                                                           |
@@ -11,4 +13,3 @@
 | [Rollup.js](https://rollupjs.org/)            | latest  | JavaScript module bundler used to compile exile.watch internal packages      |
 | [Lerna](https://lerna.js.org/)                | 8.x     | Build system for managing and publishing packages from the same repository   |
 | [nx](https://nx.dev/)                         | 0.18    | Monorepo scaling and maintainability                                         |
-

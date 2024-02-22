@@ -4,7 +4,7 @@ description: When using exile.watch, you become 'The Maven'.
 
 # The Maven - exile.watch context
 
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="200"><figcaption><p>exile.watch logo</p></figcaption></figure>
+<figure><img src=".gitbook/assets/exile.watch logo" alt="" width="200"><figcaption><p>exile.watch logo</p></figcaption></figure>
 
 Being a cosmic entity yourself _(as a human)_, you essentially serve as an observer _(akin to an exile.watch user)._
 

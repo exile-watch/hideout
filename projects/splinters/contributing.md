@@ -4,15 +4,17 @@ description: '@exile-watch/splinters setup & contribution guide'
 
 # Contributing
 
-## [Prerequisites](../../../development/prerequisites.md)
+<figure><img src="../../.gitbook/assets/exile.watch logo" alt="" width="200"><figcaption><p>exile.watch logo</p></figcaption></figure>
+
+## [Prerequisites](../../development/prerequisites.md)
 
 ## Development
 
 ### 1. [Fork @exile-watch/splinters repo](https://github.com/exile-watch/splinters)
 
-### 2. [Create GitHub PAT token](../../../development/generating-github-pat.md)
+### 2. [Create GitHub PAT token](../../development/generating-github-pat.md)
 
-### 3. [Create .npmrc file](../../../development/.npmrc-file.md)&#x20;
+### 3. [Create .npmrc file](../../development/.npmrc-file.md)&#x20;
 
 ### 4. Install dependencies
 

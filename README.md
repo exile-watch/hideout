@@ -1,5 +1,7 @@
 # Introduction
 
+<figure><img src=".gitbook/assets/exile.watch logo" alt="" width="200"><figcaption><p>exile.watch logo</p></figcaption></figure>
+
 Have you ever questioned what debuff a boss' ability applied to you?
 
 Have you ever wondered what kills you in the Crimson Temple boss room? &#x20;

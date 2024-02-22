@@ -1,22 +1,20 @@
 # Table of contents
 
-## exile.watch
-
 * [Introduction](README.md)
-* [The Maven - exile.watch context](exile.watch/the-maven-exile.watch-context.md)
-* [Projects](exile.watch/projects/README.md)
-  * [hideout](exile.watch/projects/hideout.md)
-  * [crucible](exile.watch/projects/crucible/README.md)
-    * [Contributing](exile.watch/projects/crucible/contributing.md)
-  * [writ](exile.watch/projects/writ/README.md)
-    * [Contributing](exile.watch/projects/writ/contributing.md)
-  * [splinters](exile.watch/projects/splinters/README.md)
-    * [Contributing](exile.watch/projects/splinters/contributing.md)
-  * [nucleus](exile.watch/projects/nucleus/README.md)
-    * [Contributing (data)](exile.watch/projects/nucleus/contributing-data/README.md)
-      * [Encounter token breakdown](exile.watch/projects/nucleus/contributing-data/encounter-token-breakdown.md)
-    * [Contributing (scripts)](exile.watch/projects/nucleus/contributing-scripts/README.md)
-      * [Scripts definition](exile.watch/projects/nucleus/contributing-scripts/scripts-definition.md)
+* [The Maven - exile.watch context](the-maven-exile.watch-context.md)
+* [Projects](projects/README.md)
+  * [hideout](projects/hideout.md)
+  * [crucible](projects/crucible/README.md)
+    * [Contributing](projects/crucible/contributing.md)
+  * [writ](projects/writ/README.md)
+    * [Contributing](projects/writ/contributing.md)
+  * [splinters](projects/splinters/README.md)
+    * [Contributing](projects/splinters/contributing.md)
+  * [nucleus](projects/nucleus/README.md)
+    * [Contributing (data)](projects/nucleus/contributing-data/README.md)
+      * [Encounter token breakdown](projects/nucleus/contributing-data/encounter-token-breakdown.md)
+    * [Contributing (scripts)](projects/nucleus/contributing-scripts/README.md)
+      * [Scripts definition](projects/nucleus/contributing-scripts/scripts-definition.md)
 
 ## Development
 

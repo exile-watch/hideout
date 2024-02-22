@@ -1,5 +1,7 @@
 # hideout
 
+<figure><img src="../.gitbook/assets/exile.watch logo" alt="" width="200"><figcaption><p>exile.watch logo</p></figcaption></figure>
+
 Welcome to the **Hideout**, the central nerve center for all things related to the [exile.watch](https://exile.watch/) project and its associated repositories: [Crucible](https://github.com/exile-watch/crucible), [Writ](https://github.com/exile-watch/writ), [Splinters](https://github.com/exile-watch/splinters), and [Nucleus](https://github.com/exile-watch/nucleus).
 
 The Hideout is designed to be a comprehensive resource where users and contributors can find everything from issue tracking to feature discussions, extensive documentation, and overarching project details.

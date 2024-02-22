@@ -6,6 +6,8 @@ description: >-
 
 # npm vs pnpm vs yarn vs yalc
 
+<figure><img src="../../.gitbook/assets/exile.watch logo" alt="" width="200"><figcaption><p>exile.watch logo</p></figcaption></figure>
+
 tl;dr: `exile.watch` is using `npm` as it's package manager as it was causing the least issues while not really deteriorating developer experience
 
 ***

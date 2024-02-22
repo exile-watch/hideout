@@ -4,6 +4,8 @@ description: exile.watch design system
 
 # writ
 
+<figure><img src="../../.gitbook/assets/exile.watch logo" alt="" width="200"><figcaption><p>exile.watch logo</p></figcaption></figure>
+
 Without [_(The Maven's)_ Writ](https://www.poewiki.net/wiki/The\_Maven's\_Writ) there is no [_(The Maven's)_ Crucible](https://www.poewiki.net/wiki/The\_Maven's\_Crucible)
 
 Similarly, without a [design system](https://github.com/exile-watch/writ) there is no [user facing website](https://github.com/exile-watch/crucible).

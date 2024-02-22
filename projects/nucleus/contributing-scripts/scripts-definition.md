@@ -1,5 +1,7 @@
 # Scripts definition
 
+<figure><img src="../../../.gitbook/assets/exile.watch logo" alt="" width="200"><figcaption><p>exile.watch logo</p></figcaption></figure>
+
 Every script is taking a part of auto-generating data content on the website.
 
 There are 3 rules:

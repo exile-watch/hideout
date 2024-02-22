@@ -1,19 +1,11 @@
-# Introduction
-
-<figure><img src=".gitbook/assets/exile.watch logo" alt="" width="200"><figcaption><p>exile.watch logo</p></figcaption></figure>
-
-Have you ever questioned what debuff a boss' ability applied to you?
-
-Have you ever wondered what kills you in the Crimson Temple boss room? &#x20;
-
-Are you so fed up with Sirus' "Die" Beams that you're questioning what it actually does?
-
-***
-
-`exile.watch` aims to provide quick snippets of the majority of Path of Exile encounters' abilities.&#x20;
-
-In the modern world, no one has time to watch a 10-minute fight guide.&#x20;
-
-Learn strategies in no time.&#x20;
-
-Each ability is explained with short GIFs.
+<p align="center">
+  <a href="https://exile.watch">
+    <img alt="exile.watch logo" src="https://avatars.githubusercontent.com/u/158840748?s=400&u=4c73ba2a9a2ebc70b01c6303d41e8571df84ec37&v=4" width="300" />
+  </a>
+</p>
+<h1 align="center">
+  hideout
+</h1>
+<p align="center">
+  <a href="https://docs.exile.watch/projects/hideout">https://docs.exile.watch/projects/hideout</a>
+</p>

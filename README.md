@@ -7,5 +7,7 @@
   hideout
 </h1>
 <p align="center">
-  <a href="https://docs.exile.watch/projects/hideout">https://docs.exile.watch/projects/hideout</a>
+  Centralized issues, feature requests and discussions
 </p>
+
+Docs: https://docs.exile.watch/projects/hideout

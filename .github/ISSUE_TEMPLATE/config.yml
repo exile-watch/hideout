@@ -1,0 +1,15 @@
+---
+blank_issues_enabled: false
+
+contact_links:
+  - name: 💡 Discuss an idea
+    url: https://github.com/exile-watch/hideout/discussions/new?category=ideas
+    about: Suggest a feature or an improvement.
+
+  - name: ❔ Ask a question
+    url: https://github.com/exile-watch/hideout/discussions/new/choose
+    about: Ask questions and discuss with other `exile.watch` users or maintainers.
+
+  - name: 🙏 Request help
+    url: https://github.com/exile-watch/hideout/discussions/new
+    about: Ask the `exile.watch` community for help.

@@ -1,8 +1,8 @@
 name: "📄 [Encounters] - Invalid Data"
 description: File an invalid or missing data report
 title: "Replace this text with this format: {map} - {encounter} - {ability}"
-labels: ["splinters/encounter-data", "invalid/missing data"]
-projects: ["exile-watch/splinters"]
+labels: ["nucleus/encounter-data", "invalid/missing data"]
+projects: ["exile-watch/nucleus"]
 assignees:
   - sbsrnt
 body:
